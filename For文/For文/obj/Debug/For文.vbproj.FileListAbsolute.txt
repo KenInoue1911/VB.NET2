@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\bin\Debug\For文.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\bin\Debug\For文.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\bin\Debug\For文.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\bin\Debug\For文.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\For文\For文\obj\Debug\For文.pdb

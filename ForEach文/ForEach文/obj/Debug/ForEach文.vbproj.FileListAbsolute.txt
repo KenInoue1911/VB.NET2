@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\bin\Debug\ForEach文.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\bin\Debug\ForEach文.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\bin\Debug\ForEach文.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\bin\Debug\ForEach文.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\ForEach文\ForEach文\obj\Debug\ForEach文.pdb

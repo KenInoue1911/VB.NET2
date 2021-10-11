@@ -1,0 +1,11 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\bin\Debug\Sample4.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\bin\Debug\Sample4.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\bin\Debug\Sample4.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\bin\Debug\Sample4.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.Form1.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample4\Sample4\obj\Debug\Sample4.pdb
