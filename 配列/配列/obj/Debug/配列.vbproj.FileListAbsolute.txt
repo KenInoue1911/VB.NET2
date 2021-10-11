@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\bin\Debug\配列.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\bin\Debug\配列.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\bin\Debug\配列.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\bin\Debug\配列.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\配列\配列\obj\Debug\配列.pdb

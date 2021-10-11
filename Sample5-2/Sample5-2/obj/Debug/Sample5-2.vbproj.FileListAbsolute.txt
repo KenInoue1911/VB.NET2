@@ -1,0 +1,12 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\bin\Debug\Sample5-2.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\bin\Debug\Sample5-2.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\bin\Debug\Sample5-2.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\bin\Debug\Sample5-2.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.vbproj.AssemblyReference.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5_2.Form1.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5_2.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample5-2\Sample5-2\obj\Debug\Sample5-2.pdb

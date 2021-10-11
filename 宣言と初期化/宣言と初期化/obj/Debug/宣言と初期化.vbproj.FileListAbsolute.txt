@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\bin\Debug\宣言と初期化.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\bin\Debug\宣言と初期化.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\bin\Debug\宣言と初期化.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\bin\Debug\宣言と初期化.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\宣言と初期化\宣言と初期化\obj\Debug\宣言と初期化.pdb
