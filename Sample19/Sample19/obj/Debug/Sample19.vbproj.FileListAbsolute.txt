@@ -1,0 +1,11 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\bin\Debug\Sample19.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\bin\Debug\Sample19.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\bin\Debug\Sample19.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\bin\Debug\Sample19.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.vbproj.AssemblyReference.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample19\Sample19\obj\Debug\Sample19.pdb

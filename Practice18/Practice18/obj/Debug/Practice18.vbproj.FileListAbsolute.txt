@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\bin\Debug\Practice18.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\bin\Debug\Practice18.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\bin\Debug\Practice18.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\bin\Debug\Practice18.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Practice18\Practice18\obj\Debug\Practice18.pdb

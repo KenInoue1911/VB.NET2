@@ -1,0 +1,10 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\bin\Debug\Sample20.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\bin\Debug\Sample20.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\bin\Debug\Sample20.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\bin\Debug\Sample20.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Sample20\Sample20\obj\Debug\Sample20.pdb
