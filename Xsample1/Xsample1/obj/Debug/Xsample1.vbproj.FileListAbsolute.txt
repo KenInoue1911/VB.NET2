@@ -1,0 +1,11 @@
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\bin\Debug\Xsample1.exe.config
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\bin\Debug\Xsample1.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\bin\Debug\Xsample1.pdb
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\bin\Debug\Xsample1.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.vbproj.AssemblyReference.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.Resources.resources
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.vbproj.GenerateResource.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.vbproj.CoreCompileInputs.cache
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.exe
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.xml
+C:\Users\inoue\OneDrive\デスクトップ\VisualBasic講座\Xsample1\Xsample1\obj\Debug\Xsample1.pdb
